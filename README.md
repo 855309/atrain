@@ -1,4 +1,4 @@
 # atrain
-Fast addition trainer.
+Addition trainer.
 
 **Note:** This is a personal project.
