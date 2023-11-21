@@ -1,0 +1,2 @@
+# atrain
+Fast addition trainer
