@@ -1,0 +1,44 @@
+.center {
+ 	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.spane {
+	border: 1px solid black;
+}
+
+.ninput {
+	margin: 4px;
+}
+
+.div-ninput {
+	margin: 12px;
+}
+
+.sbutton {
+	width: 80%;
+	height: 30px;
+	display: block;
+	margin: 12px auto;
+}
+
+.mono {
+	font-family: monospace;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.disp-num {
+	font-size: 20vw;
+}
+
+#div-sum {
+	margin: 12px;
+	text-align: center;
+	font-size: 4vw;
+}
